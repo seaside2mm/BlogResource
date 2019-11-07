@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kubota/Documents/program/chapter1/bmp.h
+bmpUtil.h
+/Users/kubota/Documents/program/chapter1/bmpUtil.h
+
+/Users/kubota/Documents/program/chapter1/bmpUtil.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/kubota/Documents/program/chapter1/image.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/kubota/Documents/program/chapter1/main.c
+image.h
+/Users/kubota/Documents/program/chapter1/image.h
+bmp.h
+/Users/kubota/Documents/program/chapter1/bmp.h
+
