@@ -1,0 +1,3 @@
+/Users/kubota/Documents/program/ImageProcessingByC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kubota/Documents/program/ImageProcessingByC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kubota/Documents/program/ImageProcessingByC/cmake-build-debug/CMakeFiles/ImageProcessingByC.dir
